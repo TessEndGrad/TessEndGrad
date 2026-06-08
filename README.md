@@ -6,29 +6,26 @@
 
 ###
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Matvey
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Matvey
 ===============================================================================================================================
 
 Back-End Developer
 ------------------
 
-Я являюсь Back-End разработчиком, начинал свою карьеру уже с 14 лет, в то время еще обучаясь в школе заинтересовался строением сайтов и решил дома на компьютере накидать небольшой Front по гайду с ютуба, и, мне понравилось!
-
-В дальнейшем мне стало интересно как устроена IT инфраструктура в целом, начал читать книги, смотреть курсы, узнал, как работать с базами данных и многое другое.
-
-На 1 курсе обучения в колледже, неожиданно от преподавателя прилетел реальный заказ на создание Телеграм-бота для компании, я согласился! За буквально 2 дня, открыл для себя новый вид разработки ботов, и успешно закрыл первый заказ.
-
-Теперь мне стал интересен Back и я решил для себя стать Back-End разработчиком.
+Back-End разработчик с опытом коммерческой разработки и глубоким пониманием ИТ-инфраструктуры. Самостоятельно освоил архитектуру систем, базы данных и принципы работы серверной части. Имею успешный практический опыт быстрой разработки и запуска коммерческих решений с нуля (проектирование и интеграция Telegram-ботов для бизнеса в сжатые сроки). Нацелен на развитие в сфере Back-End разработки, создание эффективных серверных приложений и проектирование масштабируемой архитектуры.
 
 ------------------
 
-I'm a back-end developer. I started my career at the age of 14. While still in school, I became interested in website development and decided to throw together a small front-end project at home using a YouTube guide. I loved it!
+A back-end developer with commercial development experience and a deep understanding of IT infrastructure. I have independently mastered system architecture, databases, and server-side operating principles. I have successful practical experience in rapidly developing and launching commercial solutions from scratch (designing and integrating Telegram bots for businesses within tight deadlines). I am focused on developing my expertise in back-end development, creating efficient server applications, and designing scalable architectures.
 
-Later, I became interested in how IT infrastructure works in general, started reading books, watching courses, learned how to work with databases, and much more.
+------------------
 
-In my first year of college, a professor unexpectedly commissioned me to create a Telegram bot for a company. I accepted! In just two days, I discovered a new type of bot development and successfully completed my first order.
+Skills:
 
-Now I've become interested in back-end development and decided to become a back-end developer.
+- PL: Go, Python, JavaScript, C++, C
+- Web-tech: HTML5, CSS3
+- DataBase: PostgreSQL, MySQL
+- Tools and infrastructure: Git, Docker
 
 ------------------
 
